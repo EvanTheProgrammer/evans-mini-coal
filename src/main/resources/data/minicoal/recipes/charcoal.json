@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minicoal:minicharcoal"
+        },
+        {
+            "item": "minicoal:minicharcoal"
+        },
+        {
+            "item": "minicoal:minicharcoal"
+        },
+        {
+            "item": "minicoal:minicharcoal"
+        },
+        {
+            "item": "minicoal:minicharcoal"
+        },
+        {
+            "item": "minicoal:minicharcoal"
+        },
+        {
+            "item": "minicoal:minicharcoal"
+        },
+        {
+            "item": "minicoal:minicharcoal"
+        }
+    ],
+    "result": {
+        "item": "minecraft:charcoal",
+        "count": 1
+    }
+}
